@@ -1,6 +1,6 @@
 # AutoboxingAndUnboxingChallenge
 
-        You job is to create a simple banking application.
+         You job is to create a simple banking application.
          There should be a Bank class
          It should have an arraylist of Branches
          Each Branch should have an arraylist of Customers
